@@ -35,15 +35,21 @@ Atualmente trabalho como eletricista enquanto construo minha jornada no mundo do
 - Node.js
 - Noções de C#
 
+<hr/>
+
 **Próximas tecnologias no meu radar:**
 - React
 - TypeScript
 - Next.js (para projetos front-end)
 - Nest.js (para desenvolvimento back-end)
 
+<hr/>
+
 ### 🔍 Foco atual
 
 Estou concentrando meus esforços no desenvolvimento front-end, construindo uma base sólida nas tecnologias fundamentais da web. Em paralelo, estou expandindo meus conhecimentos para eventualmente me tornar um desenvolvedor full-stack.
+
+<hr/>
 
 ### 🌱 Transição de carreira
 
@@ -54,9 +60,13 @@ Minha experiência como eletricista me proporcionou habilidades valiosas que est
 - Capacidade de seguir especificações técnicas
 - Comprometimento com segurança e qualidade
 
+<hr/>
+
 ### 📚 Educação contínua
 
 Acredito fortemente no aprendizado constante e estou sempre buscando novos conhecimentos e desafios para aprimorar minhas habilidades como desenvolvedor.
+
+<hr/>
 
 ### 📫 Contato
 
