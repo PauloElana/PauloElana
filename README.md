@@ -17,6 +17,17 @@ Atualmente trabalho como eletricista enquanto construo minha jornada no mundo do
 - CSS3
 - JavaScript
 
+<div style="display: flex; flex-direction: column; align-items: center; gap: 30px;"> 
+  <div style="display: flex; justify-content: center; gap: 10px;">
+        <img align="center" alt="Js" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+        <img align="center" alt="node" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg">
+        <img align="center" alt="css" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+        <img align="center" alt="html" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
+
+  </div>
+</div>
+
+
 **Estou aprendendo:**
 - Node.js
 - Noções de C#
