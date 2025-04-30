@@ -10,6 +10,8 @@ Atualmente trabalho como eletricista enquanto construo minha jornada no mundo do
 - Graduação EAD em Análise e Desenvolvimento de Sistemas
 - Curso Técnico noturno na mesma área
 
+<hr/>
+
 ### 💼 Conhecimentos
 
 **Tecnologias que utilizo:**
@@ -27,6 +29,7 @@ Atualmente trabalho como eletricista enquanto construo minha jornada no mundo do
   </div>
 </div>
 
+<hr/>
 
 **Estou aprendendo:**
 - Node.js
